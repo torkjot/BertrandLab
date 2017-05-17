@@ -1,0 +1,24 @@
+May 17 2017
+AZMP Extraction, Precipitation Optimization Procedures
+Tor Kitching
+
+Filter (START)
+
+-	Extract w/ 2-4% SDS buffer w/ protease inhibitor + sonication a/o beads a/o freeze thaw
+-	Following current extraction procedure (V7)
+-	Speed vacuum 750 µL to ~250 µL
+-	Add ice cold acetone (4:1) for over-night precipitation to sample buffer w/ protein
+-	Pellet
+						
+-	Add 400 µL ice cold acetone				** Care with pellet when pipetting
+-	Spin + remove acetone
+-	Add 400 µL ice cold acetone
+-	Spin + remove acetone
+
+-	Resuspend pellet in 20 µL 8 M Urea and dilute to 100 µL w/ Ammonium bicarbonate buffer (50 mM, pH 8)
+
+									** SPEC in plate reader
+-	Measure concentration of protein w/ micro BCA
+-	Measure concentration of SDS (Stains-All procedure)
+
+-	Continue w/ Trypsin digestion procedure for remaining sample for MS, reduction and alkylation
